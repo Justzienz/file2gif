@@ -4,7 +4,7 @@ file2gif is a Python program that allows you to encrypt any file and turn it int
 
 ## Usage
 
-Clone and move to this repository.
+Clone and move to this repo.
 
 ```bash
 git clone https://github.com/Justzienz/file2gif/

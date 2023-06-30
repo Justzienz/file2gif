@@ -1,4 +1,4 @@
-repo# file2gif
+# file2gif
 
 file2gif is a Python program that allows you to encrypt any file and turn it into a gif file. It consists of two files: `encrypt.py` and `decrypt.py`.
 
